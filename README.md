@@ -1,5 +1,5 @@
 # Lab8_Starter
-## Authour
+## Author
 - Yuanzhe Liu
 - Yuyang Tian
   
